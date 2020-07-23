@@ -1,3 +1,4 @@
-#Squares Game
-Click squares on screen for test your reaction
-[Play](https://radmirshkred.github.io/game-squares/)
+### Squares Game
+Click as much as possible squares in short time, test you reaction and accuracy.
+
+**[Play](https://radmirshkred.github.io/game-squares/)**
